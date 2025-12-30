@@ -1,0 +1,7 @@
+{
+  "name": "Y2K CyberHand Draw",
+  "description": "A futuristic Y2K-aesthetic hand-tracking drawing tool. Use gestures to create shapes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
